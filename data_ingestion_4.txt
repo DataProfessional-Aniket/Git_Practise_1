@@ -1,2 +1,4 @@
 i love ingesting the data.
+
+ Lead_master :- i love to do ELT process first.
  
